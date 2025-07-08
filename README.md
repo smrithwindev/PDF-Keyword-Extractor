@@ -22,9 +22,9 @@ It supports multiple languages, displays the extracted keywords, and allows user
    
    Folder Structure
 
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Dependencies
-├── README.md               # Project documentation
+   - app.py                  # Main Streamlit application
+   - requirements.txt        # Dependencies
+   - README.md               # Project documentation
 
   Requirements
 - Python 3.7+
