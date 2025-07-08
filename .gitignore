@@ -1,0 +1,29 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Skip any virtual environments
+env/
+venv/
+.yake-env/
+
+# Streamlit-related configs
+.streamlit/
+
+# Ignore temporary files or test output
+*.log
+*.tmp
+*.bak
+*.old
+
+# Ignore generated PDF reports
+*.pdf
+
+# VSCode and other editor files
+.vscode/
+.idea/
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+streamlit==1.35.0
+yake==0.4.8
+fpdf==1.7.2
+PyMuPDF==1.23.24
