@@ -25,6 +25,7 @@ It supports multiple languages, displays the extracted keywords, and allows user
    - app.py                  # Main Streamlit application
    - requirements.txt        # Dependencies
    - README.md               # Project documentation
+   - .gitignore              # Files and folders to ignore during git versioning
 
   Requirements
 - Python 3.7+
